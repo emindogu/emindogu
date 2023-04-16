@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emindogu
-- 👀 I’m interested in C# and PHP
-- 🌱 I’m currently learning Laravel and Vue.js
+- 👀 I’m interested in C#, PHP - Laravel and Java
+- 🌱 I’m currently learning Java and Vue.js
 - 📫 How to reach me ? By e-mail
 
 <!---
